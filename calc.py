@@ -1,5 +1,13 @@
-def calc(num1, num2):
-	sum = num1 + num2
-	subtract = num1 - num2
-	division = num1/num2
-	multiply = num1 * num2
+def sum(num1, num2):
+	return num1 + num2
+	
+def sub(num1, num2):
+	return num1 - num2
+
+def div(num1, num2):
+	return num1/num2
+
+def mult(num1, num2):	
+	return = num1 * num2
+
+
